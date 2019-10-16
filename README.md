@@ -55,7 +55,7 @@ i'll apply them in general:
 
 | Method | Description | Default |
 | --- | --- | :--: |
-| <b>BEM</b>([<i>block-element-modifier</i>]) | karışık arayüz yapılarını copy&pasten yapmadan yeniden kullanabilir şekilde ve hızlı sonuçlar alınarak geliştirmeye olanak sağlar | *&lt;"__" - .navigation&gt;* |
+| <b>BEM</b>([<i>block-element-modifier</i>]) | karışık arayüz yapılarını copy&pasten yapmadan yeniden kullanabilir şekilde ve hızlı sonuçlar alınarak geliştirmeye olanak sağlar | *&lt; "__" <br/> .navigation <br/> ".block__" &gt;* |
 
 
 
