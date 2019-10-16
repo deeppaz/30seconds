@@ -1,0 +1,19 @@
+{
+  "name": "30seconds",
+  "version": "1.0.0",
+  "description": "deeppaz - what i dont know, i try to learn to know",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deeppaz/30seconds.git"
+  },
+  "author": "jimmy a.k.a deeppaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deeppaz/30seconds/issues"
+  },
+  "homepage": "https://github.com/deeppaz/30seconds#readme"
+}

@@ -11,11 +11,11 @@ bantam. its a learning repository that i want to apply, whether I assume its dif
 ```
 
 i'll apply them in general:
-* [react](https://www.30secondsofcode.org/) ([source](https://github.com/30-seconds/30-seconds-of-react))
-* [node](https://www.30secondsofcode.org/) ([source](https://github.com/30-seconds/30-seconds-of-code))
-* [javascript](https://www.30secondsofcode.org/) ([source](https://github.com/30-seconds/30-seconds-of-code))
-* [html](https://www.30secondsofcode.org/) ([source](https://github.com/30-seconds/30-seconds-of-interviews))
-* [css](https://www.30secondsofcode.org/) ([source](https://github.com/30-seconds/30-seconds-of-css))
+* [react](https://github.com/deeppaz/30seconds#react) ([source](https://github.com/30-seconds/30-seconds-of-react))
+* [node](https://github.com/deeppaz/30seconds#node) ([source](https://github.com/30-seconds/30-seconds-of-code))
+* [javascript](https://github.com/deeppaz/30seconds#javascript) ([source](https://github.com/30-seconds/30-seconds-of-code))
+* [html](https://github.com/deeppaz/30seconds#html) ([source](https://github.com/30-seconds/30-seconds-of-interviews))
+* [css](https://github.com/deeppaz/30seconds#css) ([source](https://github.com/30-seconds/30-seconds-of-css))
 
 
 
@@ -53,9 +53,9 @@ i'll apply them in general:
 
 ### css
 
-| Method | Description | Default |
+| Method | Description | Rules |
 | --- | --- | :--: |
-| <b>BEM</b>([<i>block-element-modifier</i>]) | karışık arayüz yapılarını copy&pasten yapmadan yeniden kullanabilir şekilde ve hızlı sonuçlar alınarak geliştirmeye olanak sağlar | *<b> <br /> "__" <br/> .navigation <br/> .block __ <b/* |
+| <b>BEM</b>([<i>block-element-modifier</i>]) | karışık arayüz yapılarını copy&pasten yapmadan yeniden kullanabilir şekilde ve hızlı sonuçlar alınarak geliştirmeye olanak sağlar | *<b> <br /> .block <br/> .block__element <br/> .block--mod veya .block__elem--mod <b/>* |
 
 
 

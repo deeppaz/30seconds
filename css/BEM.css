@@ -1,0 +1,23 @@
+.block {
+    padding: 20px;
+    background: lightpink;
+  }
+  .block__element {
+    margin-top: 20px;
+    padding: 20px;
+    background: lightblue;
+  }
+  .block--modifier {
+    color: white;
+    background: red;
+  }
+  .block--modifier .block__element {
+    background: blue;
+  }
+
+  /* doğru
+.block__elem { color: #042; }
+
+ doğru ama kötü
+.block .block__elem { color: #042; }
+	div.block__elem { color: #042; } */
