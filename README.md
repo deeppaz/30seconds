@@ -47,7 +47,7 @@ i'll apply them in general:
 
 | Method | Description | Default |
 | --- | --- | :--: |
-| <b>x</b>([<i>px</i>]) | description/açıklama | *&lt;x&gt;* |
+| <b>ALT</b>([<i>px</i>]) | görselin görüntülenmediği takdirde, alternatif bir metin sunan attribute  | *<br> alt=""  <br> <img alt=""> <br>* |
 
 
 
