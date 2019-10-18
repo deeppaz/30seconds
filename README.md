@@ -39,7 +39,7 @@ i'll apply them in general:
 
 | Method | Description | Default |
 | --- | --- | :--: |
-| <b>x</b>([<i>px</i>]) | description/açıklama | *&lt;x&gt;* |
+| <b>Equality</b>([<i>Operator</i>]) | İki eşittir(==) ve üç eşittir(===) arasındaki en temel fark tip ve değer karşılaştırmasıdır. Üç eşittir kullandığınızda iki değerin hem tipini hem de değerini karşılaştırırken iki eşittir ise değerlerin tiplerini eşitleyerek sadece değer karşılaştırması yapar | *<br> ==  <br> === <br>* |
 
 
 
