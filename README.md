@@ -23,7 +23,7 @@ i'll apply them in general:
 
 | Method | Description | Default |
 | --- | --- | :--: |
-| <b>x</b>([<i>px</i>]) | description/açıklama | *&lt;x&gt;* |
+| <b>Component, Element</b>([<i>arasında ki fark</i>]) | element, bir DOM node veya component'ini temsil eden düz bir javascript object(nesne'sidir)tir. elementler saf ve asla mutasyona uğramazlar ve oluşturmaları ucuzdur <br> component, bir function veya sınıftır. component'ler state'e sahip olabilir ve input olarak props alabilir ve bir element ağacını çıktı olarak return edebilir | *&lt;x&gt;* |
 
 
 
@@ -39,7 +39,7 @@ i'll apply them in general:
 
 | Method | Description | Default |
 | --- | --- | :--: |
-| <b>Equality</b>([<i>Operator</i>]) | İki eşittir(==) ve üç eşittir(===) arasındaki en temel fark tip ve değer karşılaştırmasıdır. Üç eşittir kullandığınızda iki değerin hem tipini hem de değerini karşılaştırırken iki eşittir ise değerlerin tiplerini eşitleyerek sadece değer karşılaştırması yapar | *<br> ==  <br> === <br>* |
+| <b>Equality</b>([<i>Operator</i>]) | İki eşittir(==) ve üç eşittir(===) arasındaki en temel fark tip ve değer karşılaştırmasıdır. Üç eşittir kullandığınızda iki değerin hem tipini hem de değerini karşılaştırırken iki eşittir ise değerlerin tiplerini eşitleyerek sadece değer karşılaştırması yapar | *<b> <br> ==  <br> === <br> </b>* |
 
 
 
@@ -47,7 +47,7 @@ i'll apply them in general:
 
 | Method | Description | Default |
 | --- | --- | :--: |
-| <b>ALT</b> | görselin görüntülenmediği takdirde, alternatif bir metin sunan attribute  | *<br> alt=""  <br> < img alt=""> <br> görselin adı ile uyuşmamalıdır<br>* |
+| <b>ALT</b> | görselin görüntülenmediği takdirde, alternatif bir metin sunan attribute  | *<b> <br> alt=""  <br> < img alt=""> <br> görselin adı ile uyuşmamalıdır<br> </b>* |
 
 
 
