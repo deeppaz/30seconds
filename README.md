@@ -23,7 +23,7 @@ i'll apply them in general:
 
 | Method | Description | Default |
 | --- | --- | :--: |
-| <b>Component, Element</b>([<i>arasında ki fark</i>]) | element, bir DOM node veya component'ini temsil eden düz bir javascript object(nesne'sidir)tir. elementler saf ve asla mutasyona uğramazlar ve oluşturmaları ucuzdur <br> component, bir function veya sınıftır. component'ler state'e sahip olabilir ve input olarak props alabilir ve bir element ağacını çıktı olarak return edebilir | *&lt;x&gt;* |
+| <b>Component, Element</b> <i>arasında ki fark</i> | element, bir DOM node veya component'ini temsil eden düz bir javascript object(nesne'sidir)tir. elementler saf ve asla mutasyona uğramazlar ve oluşturmaları ucuzdur. <br> component, bir function veya sınıftır. component'ler state'e sahip olabilir ve input olarak props alabilir ve bir element ağacını çıktı olarak return edebilir | *&lt;const&gt;* |
 
 
 
