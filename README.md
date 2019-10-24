@@ -31,7 +31,9 @@ i'll apply them in general:
 
 | Method | Description | Default |
 | --- | --- | :--: |
-| <b>x</b>([<i>px</i>]) | description/açıklama | *&lt;x&gt;* |
+| <b>Rest</b>([<i>px</i>]) | REST, ağ mimarisi için bir yazılım tasarım desenidir. Bir RESTful web uygulaması, kaynakları hakkında bilgi şeklinde veri ortaya koyar. Genel olarak, bu kavram, durumu yönetmek için web uygulamalarında kullanılır. Çoğu uygulamada, verileri okuma, oluşturma, güncelleme ve imha etme gibi ortak bir tema vardır. Veriler, yayınlar, kullanıcılar, yorumlar gibi ayrı tablolara modüler hale getirilir ve RESTful API, bu verilere erişimi sağlar. | *<b> <br> Reading: /posts/ => GET
+  <br> Creating: /posts/new => POST <br> Updating: /posts/:id => PUT
+ <br>Destroying: /posts/:id => DELETE <br> </b>* |
 
 
 
