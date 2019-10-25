@@ -48,6 +48,7 @@ i'll apply them in general:
 | Method | Description | Default |
 | --- | --- | :--: |
 | <b>ALT</b> | görselin görüntülenmediği takdirde, alternatif bir metin sunan attribute  | *<b> <br> alt=""  <br> < img alt=""> <br> görselin adı ile uyuşmamalıdır<br> </b>* |
+| <b>ALT</b> | görselin görüntülenmediği takdirde, alternatif bir metin sunan attribute  | *<b> <br> alt=""  <br> < img alt=""> <br> görselin adı ile uyuşmamalıdır<br> </b>* |
 
 
 
