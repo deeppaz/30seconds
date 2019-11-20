@@ -1,11 +1,6 @@
 deeppaz - what i don't know, i try to learn to know
 =======================
 
-
-```
-ufak tefek. zor veya basit olduğunu varsaysam da uygulamak istediğim bir öğrenme deposu
-```
--
 ```
 bantam. its a learning repository that i want to apply, whether I assume its difficult or simple
 ```
