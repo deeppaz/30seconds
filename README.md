@@ -1,4 +1,4 @@
-deeppaz - what i don't know, i try to learn to know
+deeppaz - 30seconds repo
 =======================
 
 ```
