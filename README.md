@@ -58,7 +58,7 @@ i'll apply them in general:
 
 ## Giving Back
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://streamlabs.com/enso/tip) bu depo size yardımcı olduysa ve geri katkıda bulunmak istiyorsanız, elbette [bir ☕ ısmarlaya bilirsiniz](https://streamlabs.com/enso/tip)!
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://streamlabs.com/enso/tip) bu depo size yardımcı olduysa ve geri katkıda bulunmak istiyorsanız, elbette [bir ☕ ?](https://streamlabs.com/enso/tip)!
 
 [npm-img]: https://img.shields.io/npm/v/3d-force-graph.svg
 [npm-url]: https://npmjs.org/package/3d-force-graph
